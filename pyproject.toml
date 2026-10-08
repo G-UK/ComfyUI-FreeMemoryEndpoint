@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-FreeMemoryEndpoint"
+description = "Custom Node for clearing RAM and vRAM"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/G-UK/ComfyUI-FreeMemoryEndpoint/"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "G-UK"
+DisplayName = "ComfyUI-FreeMemoryEndpoint"
+Icon = ""
